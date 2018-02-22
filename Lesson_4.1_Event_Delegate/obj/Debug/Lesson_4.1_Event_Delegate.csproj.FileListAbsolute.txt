@@ -1,0 +1,6 @@
+C:\Users\eugen\RiderProjects\Lesson_4.1_Event_Delegate\Lesson_4.1_Event_Delegate\obj\Debug\Lesson_4.1_Event_Delegate.csprojResolveAssemblyReference.cache
+C:\Users\eugen\RiderProjects\Lesson_4.1_Event_Delegate\Lesson_4.1_Event_Delegate\obj\Debug\Lesson_4.1_Event_Delegate.csproj.CoreCompileInputs.cache
+C:\Users\eugen\RiderProjects\Lesson_4.1_Event_Delegate\Lesson_4.1_Event_Delegate\bin\Debug\Lesson_4._1_Event_Delegate.exe
+C:\Users\eugen\RiderProjects\Lesson_4.1_Event_Delegate\Lesson_4.1_Event_Delegate\bin\Debug\Lesson_4._1_Event_Delegate.pdb
+C:\Users\eugen\RiderProjects\Lesson_4.1_Event_Delegate\Lesson_4.1_Event_Delegate\obj\Debug\Lesson_4._1_Event_Delegate.exe
+C:\Users\eugen\RiderProjects\Lesson_4.1_Event_Delegate\Lesson_4.1_Event_Delegate\obj\Debug\Lesson_4._1_Event_Delegate.pdb
